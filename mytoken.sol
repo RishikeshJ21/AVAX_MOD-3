@@ -15,8 +15,8 @@ contract mytoken is ERC20, Ownable {
         _mint(account, amount);
     }
 
-    // Burn Function 
-    function burnTokens(uint256 amount) external onlyOwner {
+    // Burn Function - no onlyOwner modifier
+    function burnTokens(uint256 amount) external {
         _burn(_msgSender(), amount);
     }
 
