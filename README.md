@@ -2,7 +2,7 @@
 
 ## Overview
 
- Token Proxy is a Solidity smart contract designed to facilitate the creation and deployment of your own ERC20 token using either HardHat or Remix. Once deployed, the contract provides essential functions for interacting with the token. The contract owner can mint tokens to a specified address, while any user has the ability to burn and transfer tokens. Token Proxy is a Solidity smart contract designed to facilitate the creation and deployment of your own ERC20 token using Remix. Once deployed, the contract provides essential functions for interacting with the token. The contract owner can mint tokens to a specified address, while any user has the ability to burn and transfer tokens.
+ Token Proxy is a Solidity smart contract designed to facilitate the creation and deployment of your own ERC20 token using Remix. Once deployed, the contract provides essential functions for interacting with the token. The contract owner can mint tokens to a specified address, while any user has the ability to burn and transfer tokens. Token Proxy is a Solidity smart contract designed to facilitate the creation and deployment of your own ERC20 token using Remix. Once deployed, the contract provides essential functions for interacting with the token. The contract owner can mint tokens to a specified address, while any user has the ability to burn and transfer tokens.
 
 ## Usage
 
