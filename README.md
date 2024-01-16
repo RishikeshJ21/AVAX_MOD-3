@@ -28,7 +28,7 @@ This function allows the contract owner to mint tokens to a specified address.
 #### Burn Tokens
 ```solidity
  // Burn Function 
-    function burnTokens(uint256 amount) external onlyOwner {
+    function burnTokens(uint256 amount) external {
         _burn(_msgSender(), amount);
     }
 
